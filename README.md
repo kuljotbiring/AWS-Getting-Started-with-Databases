@@ -3,7 +3,7 @@
 
 AWS Educate Labs
 
-[Getting Started with Databases](https://www.credly.com/badges/739d792d-d9c7-4286-a061-a28f54291359/public_url)
+[Getting Started with Databases](https://www.credly.com/badges/2ecbc9da-af52-4798-9d20-3c79cdc4a776/public_url)
 ## Authors
 
 - [@Kuljot Biring](https://www.github.com/kuljotbiring)
